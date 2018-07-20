@@ -28,5 +28,5 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 
 # Work done by
 
-* Adil Aliyev <adilaliyev@acm.org>
-* Rashad Aliyev <raaliyev@kaist.ac.kr>
+* Adil Aliyev(@adilek) <adilaliyev@acm.org>
+* Rashad Aliyev(@RaSangDu) <raaliyev@kaist.ac.kr>
